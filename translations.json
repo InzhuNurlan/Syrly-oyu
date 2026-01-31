@@ -1,0 +1,47 @@
+{
+    "kz": {
+        "title": "Сырлы Ою",
+        "subtitle": "Орнаменттердің құпия әлемі",
+        "nav_encyclopedia": "Энциклопедия",
+        "nav_ai": "AI Тану",
+        "nav_research": "Зерттеу",
+        "hero_desc": "Қазақтың ұлттық ою-өрнектерінің символдық тілін бізбен бірге ашыңыз. Жасанды интеллект көмегімен тану және терең тарихын зерделеу.",
+        "button_learn": "Зерттеу",
+        "button_recognize": "Оюды тану",
+        "recognize_title": "AI арқылы орнаментті тану",
+        "recognize_desc": "Фотоны жүктеңіз, ал Gemini 2.5 Flash оның мағынасын айтып береді.",
+        "survey_title": "Ғылыми зерттеу (Опрос)",
+        "survey_desc": "42 респонденттің қатысуымен өткен сауалнама нәтижелері.",
+        "footer": "© 2026 Сырлы Ою — Қазақ тілі мен мәдениетін сақтау жобасы."
+    },
+    "ru": {
+        "title": "Сырлы Ою",
+        "subtitle": "Тайны Орнаментов",
+        "nav_encyclopedia": "Энциклопедия",
+        "nav_ai": "AI Распознавание",
+        "nav_research": "Исследование",
+        "hero_desc": "Откройте для себя символический язык казахских национальных орнаментов. Распознавание с помощью ИИ и глубокое изучение истории.",
+        "button_learn": "Изучить",
+        "button_recognize": "Узнать узор",
+        "recognize_title": "Распознавание через AI",
+        "recognize_desc": "Загрузите фото, и Gemini 2.5 Flash расскажет о его значении.",
+        "survey_title": "Научное обоснование (Опрос)",
+        "survey_desc": "Результаты опроса с участием 42 респондентов.",
+        "footer": "© 2026 Сырлы Ою — Проект по сохранению казахского языка и культуры."
+    },
+    "en": {
+        "title": "Syrly Oyu",
+        "subtitle": "Mysteries of Ornaments",
+        "nav_encyclopedia": "Encyclopedia",
+        "nav_ai": "AI Recognition",
+        "nav_research": "Research",
+        "hero_desc": "Discover the symbolic language of Kazakh national ornaments. AI-powered recognition and deep historical insights.",
+        "button_learn": "Learn More",
+        "button_recognize": "Identify Pattern",
+        "recognize_title": "AI Pattern Recognition",
+        "recognize_desc": "Upload a photo, and Gemini 2.5 Flash will explain its meaning.",
+        "survey_title": "Scientific Justification (Survey)",
+        "survey_desc": "Survey results involving 42 respondents.",
+        "footer": "© 2026 Syrly Oyu — Project for preserving Kazakh language and culture."
+    }
+}
